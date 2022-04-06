@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+  
+}
+
+Html, body {
+  background-color: rgb(24, 24, 44);
+}
+
+.App{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-family: lato,sans-serif;
+}
